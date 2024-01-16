@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <div>
             <div>
-                <header className='border-b py-4 px-4 sm:px-10 bg-white font-[sans-serif] min-h-[70px]'>
+                <header className='border-b py-4 px-4 sm:px-10 bg-green-300 font-[sans-serif] min-h-[70px]'>
                     <div className='flex flex-wrap items-center gap-x-2 max-lg:gap-y-6'>
                         <div className="flex items-center">
                             <img src="https://i.ibb.co/28pqJwN/ellow-removebg-preview.png" alt="logo" className='w-12 h-12 object-cover' />
