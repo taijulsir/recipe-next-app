@@ -4,7 +4,7 @@ import Navbar from '@/components/Shared/Navbar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Food Recipe',
+  title: 'Recipefy',
   description: 'All Kind of Food Recipe',
 }
 
