@@ -35,7 +35,7 @@ const RecipeCreate = () => {
                 </div>
 
                 <button type="button"
-                    className="!mt-8 w-full px-4 py-2.5 mx-auto block text-sm font-semibold bg-blue-500 text-white rounded hover:bg-blue-600">Submit</button>
+                    className="!mt-8 w-full px-4 py-2.5 mx-auto block text-sm font-semibold bg-blue-500 text-white rounded hover:bg-blue-600">Create Recipe</button>
             </form>
         </div>
     );
