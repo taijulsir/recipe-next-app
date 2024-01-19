@@ -1,9 +1,9 @@
-
+import RecipeManage from "@/components/RecipeManage/RecipeManage";
 
 const ManageRecipe = () => {
     return (
         <div>
-            hello this is manage recipe
+            <RecipeManage/>
         </div>
     );
 };

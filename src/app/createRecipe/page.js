@@ -1,9 +1,9 @@
-
+import RecipeCreate from "@/components/RecipeCreate/RecipeCreate";
 
 const CreateRecipe = () => {
     return (
         <div>
-          Hello This is create Recipe  
+           <RecipeCreate/>
         </div>
     );
 };
